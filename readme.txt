@@ -1,0 +1,22 @@
+Environment setup:
+
+Python3.8
+#https://linuxize.com/post/how-to-install-python-3-8-on-ubuntu-18-04/
+
+pip3
+#https://thelinuxgurus.com/how-to-install-pip3-on-ubuntu-use-it/
+
+awscli
+#https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
+ 
+#Required Modules
+cli53 
+#pip3 install cli53
+#https://github.com/barnybug/cli53
+
+boto3
+#pip3 install boto3
+
+dnspython
+#pip3 install dnspython
+
